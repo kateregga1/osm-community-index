@@ -1,0 +1,9 @@
+{
+  "id": "osm-africa-matrx",
+  "type": "matrix",
+  "locationSet": {"include": ["002"]},
+  "name": "OpenStreetMap Africa Matrix",
+  "description": "Chat with other members of the OpenStreetMap Africa community, it is bridged with the Telegram, and Slack",
+  "url": "https://matrix.to/#/#osmafrica:matrix.org",
+  "contacts": [{"name": "OSM Africa", "email": "info@openstreetmap.africa"}]
+}
